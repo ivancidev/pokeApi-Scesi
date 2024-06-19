@@ -12,6 +12,7 @@ Este proyecto es una aplicación web que permite buscar información sobre Poké
 
 - **Búsqueda por Nombre o ID**: Los usuarios pueden buscar Pokémon ingresando su nombre o ID en el campo de búsqueda.
 - **Visualización de Información**: Muestra la imagen, tipos, habilidades, altura y peso.
+
 [![Captura-de-pantalla-2024-06-18-232828.png](https://i.postimg.cc/3JNXHYb8/Captura-de-pantalla-2024-06-18-232828.png)](https://postimg.cc/2VpbQRDM)
 
 ## Instalación y Uso
