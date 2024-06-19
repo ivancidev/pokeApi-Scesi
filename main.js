@@ -20,6 +20,10 @@ async function searchPokemon() {
     <img src="${data.sprites.front_default}" alt="${data.name}"/>
     <p>Altura: ${data.height}</p>
     <p>Peso: ${data.weight}</p>
+    <p>Tipo: ${data.types[0].type.name}</p>
+    <h2>Habilidades</h2>
+    <p>${data.abilities[0].ability.name}</p>
+    <p>${data.abilities[1].ability.name}</p>
     
     `;
   } catch (error) {
