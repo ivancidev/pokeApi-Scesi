@@ -12,7 +12,7 @@ h1 {
   text-align: center;
   margin-top: 1em;
   margin-bottom: 0.5em;
-  color: #006dcc;
+  color: #034b8b;
 }
 
 .search-container {
@@ -54,7 +54,7 @@ h1 {
 .pokedex-container h2 {
   text-align: center;
   margin-top: 0;
-  color: #006dcc;
+  color: #024580;
 }
 
 .pokedex-container img {
@@ -69,5 +69,5 @@ h1 {
   margin: 5px;
   font-size: 1.25em;
   font-weight: bold;
-  color: #cc002c;
+  color: #e2562c;
 }
